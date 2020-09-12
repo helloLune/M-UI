@@ -1,1 +1,1 @@
-# MUI - module UI
+# M-UI - Moduled UI
